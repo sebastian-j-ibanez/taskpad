@@ -1,4 +1,5 @@
 # Ignore build files.
 build/*
-# Ignore emacs backups.
+# Ignore emacs backups and org-mode files.
 *~
+*.org
